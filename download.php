@@ -13,8 +13,6 @@ flush();
 
 fclose($fb);
 
-
-
 ?>
 
 <!--fread(length): " The function will stop at the end of the file or when it reaches the specified length,
